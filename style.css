@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(80, 77, 77);
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 90px;
+    color: rgb(245, 72, 87);
+    font-family: 'Lobster Two', cursive;
+    margin: 40px;
+    text-shadow: 5px;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+.text {
+    font-family: 'Moo Lah Lah', cursive;
+    margin: 20px;
+    font-size: 30px;
+    color: rgb(203, 227, 243);
+}
+
+img {
+    width: 80%;
+}
+
+footer{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(203, 227, 243);
+    font-family: 'Lobster Two', cursive;
+    margin-top: 50px;    
+}
+
+
